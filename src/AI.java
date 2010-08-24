@@ -1,6 +1,6 @@
 
 public class AI extends Actor {
-	public boolean doturn(){
+	public boolean turn(){
 		return true;
 	}
 }
